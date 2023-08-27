@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on mtk
 - 📫 How to reach me
 - telegram -:
-- https://t.me/@JigneshShukla973
+- https://t.me/JigneshShukla973
 
 <!---
 jignesh2023/jignesh2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
